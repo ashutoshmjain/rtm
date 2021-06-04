@@ -1,0 +1,13 @@
+[book]
+authors = ["ashutosh jain"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Poems of Madan Maholvi"
+
+[output.html]
+google-analytics = "UA-90523130-2"
+default-theme = "ayu"
+git-repository-url = "https://github.com/ashutoshmjain/rtm"
+cname = "shayri.shutri.com"
+edit-url-template = "https://github.com/ashutoshmjain/rtm/edit/main/{path}"
