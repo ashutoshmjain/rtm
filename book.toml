@@ -3,7 +3,7 @@ authors = ["ashutosh jain"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Poems of Madan Maholvi"
+title = "Shayri"
 
 [output.html]
 google-analytics = "UA-90523130-2"
