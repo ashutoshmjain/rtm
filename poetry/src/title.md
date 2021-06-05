@@ -1,2 +1,2 @@
-![title](./1_title.jpg)
-![toc](./2_toc.jpg)
+![](./1_title.jpg)
+![](./2_toc.jpg)
