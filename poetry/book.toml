@@ -1,14 +1,16 @@
 [book]
-authors = ["ashutosh jain"]
+
+authors = ["ashutosh"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Shayri"
 
 [output.html]
+
 google-analytics = "UA-90523130-2"
 default-theme = "ayu"
-no-section-label = "false"
 git-repository-url = "https://github.com/ashutoshmjain/rtm"
-cname = "poems.shutri.com"
 edit-url-template = "https://github.com/ashutoshmjain/rtm/edit/main/{path}"
+cname = "poems.shutri.com"
+no-section-label = true 

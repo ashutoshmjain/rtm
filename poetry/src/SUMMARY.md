@@ -13,3 +13,7 @@
         - [Us Ne](./usNe.md)
         - [Pyaas](./pyaas.md)
         - [Padyatra](./padYatra.md)
+        - [Krishn](./krishn.md)
+        - [Aa Baandh](./aaBandh.md)
+        - [Jang Ki Barish](./jangKiBaarish.md)
+        - [Anant Shunya](./anantShunya.md)
