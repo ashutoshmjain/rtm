@@ -1,6 +1,6 @@
 # Summary
 - [Madan Maholvi](madanMaholvi.md)
-    - [Rasta ...](./title.md)
+    - [Rasta Tou Mile - Hindi](./title.md)
         - [Jidd](./jidd.md)
         - [Jagta Patthar](./jagtaPatthar.md)
         - [Rasta Tou Mile](./rastaTauMile.md)
@@ -17,3 +17,8 @@
         - [Aa Baandh](./aaBandh.md)
         - [Jang Ki Barish](./jangKiBaarish.md)
         - [Anant Shunya](./anantShunya.md)
+        - [Raah Gujer Ke Liye](./raahGujarKeLiye.md)
+        - [Aas Paas](./aasPaas.md)
+        - [Mujhe Khat Likhna](./mujheKhatLikhna.md)
+        - [Andhere Saybaan](./andhereSaybaan.md) 
+        - [Ek Naam Aas](./ekNaamAas.md)
