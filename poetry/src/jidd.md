@@ -1,7 +1,6 @@
-![](./3_jidd.jpg)
 <center>
+<h1> Zidd </h1>
 <figure>
-    <figcaption>Jidd</figcaption>
     <audio
        controls
        src="./jidd.mp3">
@@ -9,4 +8,6 @@
           <code>audio</code> element.
     </audio>
 </figure>
+
+![](./3_jidd.jpg)
 </center>
