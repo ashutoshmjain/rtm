@@ -1,7 +1,5 @@
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" 
-src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0" nonce="aKP11zPv"></script>
-
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0" nonce="lrr50prC"></script>
 <center>
 <h1>Hum Dono</h1>
 <figure>
@@ -16,4 +14,4 @@ src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0" nonce="aKP
 ![](./7_humDono.jpg)
 ![](./8_humDono.jpg)
 </center>
-<div class="fb-comments" data-href="https://poems.shutri.com" data-width="" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://poems.shutri.com/humDono.html" data-width="" data-numposts="10"></div>
