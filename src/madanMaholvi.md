@@ -7,8 +7,27 @@ This book is a collection of his unpublished work .. mostly poems and short stor
 
 # Rasta Tau Mile 
 
-This is a collection of 43 poems written in a specific style of Urdu Poetry called `Nazm`. A `Nazm` is a free flowing text that explores one specific feeling or emotion. It can be topical but and imbibe certain flow but the writer is free to choose or ignore the rhythm. `Nazm` represents a freedom from the rule based poetry. The idea is to have the writer as much leeway as she needs to express a thought. 
+This is a collection of 43 poems written in a specific style of Urdu Poetry called `Nazm`. A `Nazm` is a free flowing text that explores one specific feeling or emotion. It can be topical and imbibe certain flow but the writer is free to choose or ignore the rhythm. `Nazm` represents a freedom from the rule based poetry. The idea is to have the writer as much leeway as she needs to express a thought. 
 
-I hope the book will serve the purpose. The writer has taken this freedom of expression without losing the context. 
+The book is about self discovery. Poet seeks himself amidst the chaotic eighties of India - a struggle between hope and failures , the growing pains of the society as much as within. Very evident in the title poem .. 
+
+<center>
+<figure>
+    <figcaption>Rasta Tau Mile</figcaption>
+    <audio
+        controls
+        src="./rastaTauMile.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+</center>
+
+
+In a way the poetical format - `Nazm` is a very apt choice for the topic at hand "Show me the path" . He is judicious with the words without compromising the freedom of the medium. 
+
+I hope it will read well ..
+
+
 
 Ashutosh
