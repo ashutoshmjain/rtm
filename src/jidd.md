@@ -10,4 +10,16 @@
 </figure>
 
 ![](./3_jidd.jpg)
+
+<h2> Engilish Translation </h2>
+<figure>
+    <audio
+       controls
+       src="./ashu_jidd.mp3">
+          Your browser does not support the
+          <code>audio</code> element.
+    </audio>
+</figure>
+
+
 </center>
