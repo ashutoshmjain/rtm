@@ -3,7 +3,7 @@ Haryana Urdu Academy published his shayri in three covers.
 
 A masters in history and an analyst of religion, he also has huge unpublished work on "Jain Dharma in Haryana"
 
-This book is a collection of his unpublished work .. mostly poems and short stories .. 
+This online resource is a collection of his unpublished work .. Mostly poems and short stories .. 
 
 # Rasta Tau Mile 
 
@@ -26,23 +26,15 @@ The book is about self discovery. Poet seeks himself amidst the chaotic eighties
 
 In a way the poetical format - `Nazm` is a very apt choice for the topic at hand "Show me the path" . He is judicious with the words without compromising the freedom of the medium. 
 
-### Recital 
+# Creative commons and open source credits
 
-Some of the poems are recited by Trishla Devi ; wife of Madan Maholvi recently as a tribute to Shayar. In 2021 , Trishla Devi , my mother ,  at the age of 83, read thease poems the way she must have heard first hand in eighties. The background score is Gregarion Chants by Kevin Macloyad. A creative commons licence with due accrediation as under 
+This work is under creative commons licence. You are free to use , copy , redesign any which you you like as long as you visibly attribute the original as under 
 
-## Creative commons and open source credits
-
-**Background Score**
-
-Title Gregorian Chants by Kevin MacLeod (incompetech.com)
+Title Rasta Tau Mile by  Madan Maholvi (poems.shutri.com)
 
 Licensed under Creative Commons: By Attribution 3.0
 
 http://creativecommons.org/licenses/by/3.0/
-
-**Book / website software - mdbook**
-
-**Sound Mixing - Audacity**
 
 
 
