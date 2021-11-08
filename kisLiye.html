@@ -149,9 +149,20 @@
 
                 <div id="content" class="content">
                     <main>
-                        <p><img src="./51_kisLiye.jpg" alt="" />
+                        <center>
+<h1 id="kis-liye"><a class="header" href="#kis-liye">Kis Liye</a></h1>
+<figure>
+    <audio
+       controls
+       src="./kisLiye.mp3">
+          Your browser does not support the
+          <code>audio</code> element.
+    </audio>
+</figure>
+<p><img src="./51_kisLiye.jpg" alt="" />
 <img src="./52_kisLiye.jpg" alt="" />
 <img src="./53_kisLiye.jpg" alt="" /></p>
+</center>
 
                     </main>
 
@@ -182,20 +193,6 @@
 
         </div>
 
-                <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
-            var socket = new WebSocket("ws://localhost:3000/__livereload");
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
         
                 <!-- Google Analytics Tag -->
         <script type="text/javascript">
