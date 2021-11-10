@@ -149,8 +149,19 @@
 
                 <div id="content" class="content">
                     <main>
-                        <p><img src="./49_yoonhiKhadaHoon.jpg" alt="" />
+                        <center>
+<h1 id="yoon-hi-khada-hoon"><a class="header" href="#yoon-hi-khada-hoon">Yoon Hi Khada Hoon</a></h1>
+<figure>
+    <audio
+       controls
+       src="./yoonhinKhadaHoon.mp3">
+          Your browser does not support the
+          <code>audio</code> element.
+    </audio>
+</figure>
+<p><img src="./49_yoonhiKhadaHoon.jpg" alt="" />
 <img src="./50_yoonhiKhadaHoon.jpg" alt="" /></p>
+</center>
 
                     </main>
 
@@ -181,6 +192,20 @@
 
         </div>
 
+                <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
                 <!-- Google Analytics Tag -->
         <script type="text/javascript">
