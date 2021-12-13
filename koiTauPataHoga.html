@@ -149,8 +149,19 @@
 
                 <div id="content" class="content">
                     <main>
-                        <p><img src="./47_koiTauPataHoga.jpg" alt="" />
+                        <center>
+<h1 id="koi-tau-pata-hoga"><a class="header" href="#koi-tau-pata-hoga">Koi Tau Pata Hoga</a></h1>
+<figure>
+    <audio
+       controls
+       src="./koiTauPataHoga.mp3">
+          Your browser does not support the
+          <code>audio</code> element.
+    </audio>
+</figure>
+<p><img src="./47_koiTauPataHoga.jpg" alt="" />
 <img src="./48_koiTauPataHoga.jpg" alt="" /></p>
+</center>
 
                     </main>
 
@@ -181,20 +192,6 @@
 
         </div>
 
-                <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
-            var socket = new WebSocket("ws://localhost:3000/__livereload");
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
         
                 <!-- Google Analytics Tag -->
         <script type="text/javascript">
