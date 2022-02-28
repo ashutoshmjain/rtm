@@ -1,7 +1,6 @@
 # Summary
 - [Madan Maholvi](madanMaholvi.md)
     - [Rasta Tou Mile - Hindi](./title.md)
-        - [Jidd](./jidd.md)
         - [Jagta Patthar](./jagtaPatthar.md)
         - [Rasta Tou Mile](./rastaTauMile.md)
         - [Hum Dono](./humDono.md)

@@ -1,18 +1,8 @@
 <center>
 <h1> Jagta Patthar </h1>
-<figure>
-    <audio
-       controls
-       src="./jagtaPatthar.mp3">
-          Your browser does not support the
-          <code>audio</code> element.
-    </audio>
-</figure>
+<iframe src="https://archive.org/embed/rastaTauMile/01_jagtaPathar.wav" width="300" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![](./4_jagtaPatthar.jpg)
-
-
-
 </center>
 
 
