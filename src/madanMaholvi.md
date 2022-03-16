@@ -13,10 +13,9 @@ The book is about self discovery. Poet seeks himself amidst the chaotic eighties
 
 <center>
 <figure>
-    <figcaption>Rasta Tau Mile</figcaption>
     <audio
         controls
-        src="./rastaTauMile.mp3">
+        src="./rtmShort.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
