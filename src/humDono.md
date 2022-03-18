@@ -1,13 +1,6 @@
 <center>
-<h1>Hum Dono</h1>
-<figure>
-    <audio
-       controls
-       src="./humDono.mp3">
-          Your browser does not support the
-          <code>audio</code> element.
-    </audio>
-</figure>
+<h1> Hum Dono </h1>
+<iframe src="https://archive.org/embed/rastaTauMile/03_humDono.mp3" width="300" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![](./7_humDono.jpg)
 ![](./8_humDono.jpg)
