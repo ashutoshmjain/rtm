@@ -1,3 +1,6 @@
+<center>
+<h1> Madan Maholvi </h1>
+</center>
 Jnaab Madan Maholvi (1936 - 2005) , was my father and `ustaad`. I learnt the taste of Urdu shayri from him . An accomplished painter , sculptor and poet : Madan Maholvi was at ease and regular practitioner of multiple art forms. A student of Shimla Fine Arts college , he practiced and taught these art forms to high schoolers , under grads and teachers through his life.
 Haryana Urdu Academy published his shayri in three covers.
 
@@ -5,7 +8,7 @@ A masters in history and an analyst of religion, he also has huge unpublished wo
 
 This online resource is a collection of his unpublished work .. Mostly poems and short stories .. 
 
-# Rasta Tau Mile 
+## Rasta Tau Mile 
 
 This is a collection of 43 poems written in a specific style of Urdu Poetry called `Nazm`. A `Nazm` is a free flowing text that explores one specific feeling or emotion. It can be topical and imbibe certain flow but the writer is free to choose or ignore the rhythm. `Nazm` represents a freedom from the rule based poetry. The idea is to have the writer as much leeway as she needs to express a thought. That is the reason `Nazm` was proclaimed to be the voice of progressive `Tarakki Yafta` poets. It was embraced by likes of `Kaifi Azmi` in his early days as an expression of the progressive movement. 
 
@@ -25,16 +28,30 @@ The book is about self discovery. Poet seeks himself amidst the chaotic eighties
 
 In a way the poetical format - `Nazm` is a very apt choice for the topic at hand "Show me the path" . He is judicious with the words without compromising the freedom of the medium. 
 
-# Creative commons and open source credits
+## Creative commons and open source credits
 
 This work is under creative commons licence. You are free to use , copy , redesign any which you you like as long as you visibly attribute the original as under 
 
-Title Rasta Tau Mile by  Madan Maholvi (poems.shutri.com)
+> Title Rasta Tau Mile by  Madan Maholvi (poems.shutri.com)
+>
+> Licensed under Creative Commons: By Attribution 3.0
+>
+> http://creativecommons.org/licenses/by/3.0/
+>
 
-Licensed under Creative Commons: By Attribution 3.0
+- The online presentation of the book is through an "open source" documentation tool "mdbook".
+- The audio recording and editing is through "open source" applications "Audacity" and "SoX".
+- The open access project is hosted at [Github](https://github.com/ashutoshmjain/rtm)
 
-http://creativecommons.org/licenses/by/3.0/
+## Contributions
+
+Feel free to visit the repository at  [Github](https://github.com/ashutoshmjain/rtm) and raise issues if you see any technical or literary discrepancies with this presentation of the renditions. 
+
+I am looking for help to translate these poems in other languages - particularly in English. I will provide technical assistance and publishing support .  If you have a taste for the poetry and command on other languages , please contact me at amj@shutri.com 
+
+I am not a "sound artist"  by profession; so you may find my rendition lacking. If you have a better voice for Urdu or Hindi, please feel free to record the audio and send me in mp3 format. I will be happy to add your rendition .
 
 
+~Ashutosh~
 
-Ashutosh
+
