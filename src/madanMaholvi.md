@@ -51,17 +51,15 @@ The audio recording and editing is through "open source" applications "Audacity"
 
 </center>
 
-I am not a professional sound artist but my attempt is to invoke an eighties style "All India radio Urdu Service" audio experience. I am seeking help from professional sound artists to improve upon these renditions. 
+I am not a professional sound artist but my attempt is to invoke an eighties style "All India radio Urdu Service" audio experience. A laid back but thoughtful listening experience. I am seeking help from professional sound artists to improve upon these renditions. 
 
 ### Contributions
 
-Please feel free to visit the repository at  [Github](https://github.com/ashutoshmjain/rtm) . You may raise issues if you see any technical or literary discrepancies with this presentation of the renditions.
+Please feel free to visit the repository at  [Github](https://github.com/ashutoshmjain/rtm) . You may raise issues if you see any technical or literary discrepancies. I am looking for help to translate these poems in other languages - particularly in English. I will provide technical assistance and publishing support .  If you have a taste for the poetry and command on other languages , please contact me through [email](mailto:amj@shutri.com)
 
-I am looking for help to translate these poems in other languages - particularly in English. I will provide technical assistance and publishing support .  If you have a taste for the poetry and command on other languages , please contact me through [email](mailto:amj@shutri.com)
+You may find my rendition lacking in Urdu pronunciation or poetic style of "Nazm" rendiion. If you have a better voice for Urdu (or Hindi), please feel free to record the audio and send me in .mp3 format. I will be happy to add your rendition with due credits.
 
-You may find my rendition lacking in Urdu pronunciation or poetical style. If you have a better voice for Urdu or Hindi, please feel free to record the audio and send me in mp3 format. I will be happy to add your rendition . 
-
-And most importantly please spread the word for these amazing poems. I truly feel they deserve a wider audience. You can download the audio from the embedded player (on laptop) or download all the audio files in single shot from [internet archive](https://archive.org/details/rastaTauMile)  in zip or a torrent . If you need files in .wav format , feel free to drop me an [email](mailto:amj@shutri.com)
+And most importantly please spread the word for these amazing poems. I truly feel they deserve a wider audience. You can download the audio for a single track or  all the files in single shot from [internet archive](https://archive.org/details/rastaTauMile)  . Downloads are available in zip format  or as well as a torrent . If you need files in .wav format , feel free to drop me an [email](mailto:amj@shutri.com)
 
 
 ~Ashutosh~
