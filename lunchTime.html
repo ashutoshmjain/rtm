@@ -150,15 +150,8 @@
                 <div id="content" class="content">
                     <main>
                         <center>
-<h1 id="lunch-time"><a class="header" href="#lunch-time">Lunch Time</a></h1>
-<figure>
-    <audio
-       controls
-       src="./lunchTime.mp3">
-          Your browser does not support the
-          <code>audio</code> element.
-    </audio>
-</figure>
+<h1 id="lunch-time"><a class="header" href="#lunch-time"> Lunch Time </a></h1>
+<iframe src="https://archive.org/embed/rastaTauMile/06_lunchTime.mp3" width="300" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p><img src="./14_lunchTime.jpg" alt="" /></p>
 </center>
 
@@ -191,20 +184,6 @@
 
         </div>
 
-                <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
-            var socket = new WebSocket("ws://localhost:3000/__livereload");
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
         
                 <!-- Google Analytics Tag -->
         <script type="text/javascript">
