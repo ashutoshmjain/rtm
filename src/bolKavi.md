@@ -1,13 +1,8 @@
 <center>
-<h1>Bol Kavi</h1>
-<figure>
-    <audio
-       controls
-       src="./bolKavi.mp3">
-          Your browser does not support the
-          <code>audio</code> element.
-    </audio>
-</figure>
+<h1> Bol Kavi </h1>
+
+<iframe src="https://archive.org/embed/rastaTauMile/07_bolKavi.mp3" width="300" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 
 ![](./15_bolKavi.jpg)
