@@ -28,7 +28,7 @@ The book is about self discovery. Poet seeks himself amidst the chaotic eighties
 
 In a way the poetical format - `Nazm` is a very apt choice for the topic at hand "Show me the path" . He is judicious with the words without compromising the freedom of the medium. 
 
-## Creative commons and open source credits
+### Creative commons and open source credits
 
 This work is under creative commons licence. You are free to use , copy , redesign any which you you like as long as you visibly attribute the original as under 
 
@@ -40,16 +40,28 @@ This work is under creative commons licence. You are free to use , copy , redesi
 >
 
 - The online presentation of the book is through an "open source" documentation tool "mdbook".
-- The audio recording and editing is through "open source" applications "Audacity" and "SoX".
 - The open access project is hosted at [Github](https://github.com/ashutoshmjain/rtm)
 
-## Contributions
+### Recital
 
-Feel free to visit the repository at  [Github](https://github.com/ashutoshmjain/rtm) and raise issues if you see any technical or literary discrepancies with this presentation of the renditions. 
+The audio recording and editing is through "open source" applications "Audacity" and "SoX". Audio files are stored at [internet archive](https://archive.org/details/rastaTauMile). The good thing about audio player from archive.org is it allows embedding individual tracks on web pages ; as well as all the sound tracks together kinda like a clickable playlist. Short of a podcast, I guess this is best uninterrupted audio experience .. 
+<center>
 
-I am looking for help to translate these poems in other languages - particularly in English. I will provide technical assistance and publishing support .  If you have a taste for the poetry and command on other languages , please contact me at amj@shutri.com 
+<iframe src="https://archive.org/embed/rastaTauMile&playlist=1&list_height=150" width="400" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-I am not a "sound artist"  by profession; so you may find my rendition lacking. If you have a better voice for Urdu or Hindi, please feel free to record the audio and send me in mp3 format. I will be happy to add your rendition .
+</center>
+
+I am not a professional sound artist but my attempt is to invoke an eighties style "All India radio Urdu Service" audio experience. I am seeking help from professional sound artists to improve upon these renditions. 
+
+### Contributions
+
+Please feel free to visit the repository at  [Github](https://github.com/ashutoshmjain/rtm) . You may raise issues if you see any technical or literary discrepancies with this presentation of the renditions.
+
+I am looking for help to translate these poems in other languages - particularly in English. I will provide technical assistance and publishing support .  If you have a taste for the poetry and command on other languages , please contact me through [email](mailto:amj@shutri.com)
+
+You may find my rendition lacking in Urdu pronunciation or poetical style. If you have a better voice for Urdu or Hindi, please feel free to record the audio and send me in mp3 format. I will be happy to add your rendition . 
+
+And most importantly please spread the word for these amazing poems. I truly feel they deserve a wider audience. You can download the audio from the embedded player (on laptop) or download all the audio files in single shot from [internet archive](https://archive.org/details/rastaTauMile)  in zip or a torrent . If you need files in .wav format , feel free to drop me an [email](mailto:amj@shutri.com)
 
 
 ~Ashutosh~
