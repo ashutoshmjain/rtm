@@ -39,7 +39,7 @@ This work is under creative commons licence. You are free to use , copy , redesi
 > http://creativecommons.org/licenses/by/3.0/
 >
 
-- The online presentation of the book is through an "open source" documentation tool "mdbook".
+- The online presentation of the book is through an "open source" documentation tool "mdbook". You may click on three horizontal bars at the top left corner of the screen to open a side panel to access the poems sorted in a index style. 
 - The open access project is hosted at [Github](https://github.com/ashutoshmjain/rtm)
 
 ### Recital
