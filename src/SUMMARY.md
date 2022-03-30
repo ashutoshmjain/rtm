@@ -1,8 +1,6 @@
 # Summary
 - [Madan Maholvi](madanMaholvi.md)
-    - [Fikr Ke Parinde](./fkpTitle.md)
-        - [Vatayan](./01_fkp.md)
-    - [Rasta Tou Mile - Hindi](./title.md)
+    - [Rasta Tou Mile ](./title.md)
         - [Jagta Patthar](./jagtaPatthar.md)
         - [Rasta Tou Mile](./rastaTauMile.md)
         - [Hum Dono](./humDono.md)
@@ -30,3 +28,6 @@
         - [Yoonhi Khada Hoon](./yoonhiKhadaHoon.md)
         - [Kis Liye](./kisLiye.md)
         - [Ek Kabira](./ekKabira.md)
+    - [Fikr Ke Parinde](./fkpTitle.md)
+        - [Vatayan](./01_fkp.md)
+
