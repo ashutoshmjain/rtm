@@ -1,6 +1,10 @@
 <center>
 <h1> ख्याल की कोंपल </h1>
+
+<iframe src="https://archive.org/embed/fikrKeParinde" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <B>
+
 
 >कोई आफताब¹ चमके
 >
