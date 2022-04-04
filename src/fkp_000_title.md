@@ -1,2 +1,1 @@
-![](./fkpTitle.jpg)
-![](./fkpPrice.jpg)
+# Fikr Ke Parinde - फ़िक्र के परिंदे 
