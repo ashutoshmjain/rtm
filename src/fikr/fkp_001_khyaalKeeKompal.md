@@ -3,7 +3,7 @@
 
 <iframe src="https://archive.org/embed/fikrKeParinde" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<B>
+<h2>
 
 
 >कोई आफताब¹ चमके
@@ -38,11 +38,45 @@
 >
 >किसी महक का जन्म हो ।
 
-</B>
+</h2>
+1. सूर्य 2. चन्द्रमा 3. भीगी 4. पद चिह्न 5. पथ-प्रदर्शक 6. स्थायीं
+
+<h1> Khyaal Kee Kompal </h1>
+
+<h2>
+
+>Koi Aaftaab<sup>1</sup> Chamke
+>
+>Na Koi Mahtaab<sup>2</sup> Jaage
+>
+>Magar Itna Tau Ho Ae Khuda
+>
+>Foote Kisi Khyaal Kee Kompal
+>
+>Kisi Mehak Kaa Janm Ho
+>
+>Veeraan Saalon Kee Mout Se Pehle
+>
+>Jindagi kee namnaak<sup>4</sup> aankh mein
+>
+>Mere Khwaab Kaa Nakshe-Paa<sup>5</sup>
+>
+>Ae Khuda
+>
+>Na rasta bane, na rehnuma<sup>5</sup>
+>
+>Magar kuch der, der-paa<sup>6</sup> tau ho
+>
+>Humraah kisi raahgeer ke
+>
+>Kuch der tau chale pal dau pal
+>
+>foote Kisi khyaal kee Kompal
+>
+>Kisi mehek kaa janm ho.
+
+</h2>
+
+1. Sooraj 2. Chandrma 3. Bheegi 4. Pad Chinh 5. Path-Pradarshak 6. Sthayi
+
 </center>
-1. सूर्य
-2. चन्द्रमा
-3. भीगी
-4. पद चिह्न
-5. पथ-प्रदर्शक
-6. स्थायीं

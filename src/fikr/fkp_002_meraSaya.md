@@ -1,4 +1,6 @@
-<div style="float:left; width:45%;" align=center>
+<iframe src="https://archive.org/embed/fikrKeParinde/02_meraSaya.mp3" width="750" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<div style="float:left; width:300;" align=center>
 <h1> मेरा साया </h1>
 
 >दौड़ कर चलो
@@ -12,8 +14,6 @@
 >खिड़कियों पर गिरा दो
 >
 >चिटखनी चढ़ा दो
->
-> दौड़  कर  चलो
 >
 >क्योंकि बाहर आम रास्तों पर
 >
@@ -68,7 +68,7 @@
 
 </div>
 
-<div style="float:right; width:55%;" align=center>
+<div style="float:right; width:300;" align=center>
 <h1> Mera Saya </h1>
 
 >Daud kar chalo
@@ -82,8 +82,6 @@
 >Khiḍakiyoan par girā do
 >
 >Chiṭakhanī chaḍhaā do
->
->Dauḍ kar chalo
 >
 >Kyoanki bāhar ām rāstoan par
 >
