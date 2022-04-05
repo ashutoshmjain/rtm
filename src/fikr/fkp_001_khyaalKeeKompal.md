@@ -1,9 +1,9 @@
 <center>
-<h1> ख्याल की कोंपल </h1>
 
-<iframe src="https://archive.org/embed/fikrKeParinde" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/fikrKeParinde" width="750" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<h2>
+<div style="float:left; width:275;" align=center>
+<h2> ख्याल की कोंपल </h2>
 
 
 >कोई आफताब¹ चमके
@@ -38,12 +38,15 @@
 >
 >किसी महक का जन्म हो ।
 
-</h2>
-1. सूर्य 2. चन्द्रमा 3. भीगी 4. पद चिह्न 5. पथ-प्रदर्शक 6. स्थायीं
+>.. 1. सूर्य 2. चन्द्रमा 3. भीगी 4. पद चिह्न
+>
+>.. 5. पथ-प्रदर्शक 6. स्थायीं
 
-<h1> Khyaal Kee Kompal </h1>
+</div>
 
-<h2>
+<div style="float:right; width:275;" align=center>
+<h2> Khyaal Kee Kompal </h2>
+
 
 >Koi Aaftaab<sup>1</sup> Chamke
 >
@@ -75,8 +78,11 @@
 >
 >Kisi mehek kaa janm ho.
 
-</h2>
 
-1. Sooraj 2. Chandrma 3. Bheegi 4. Pad Chinh 5. Path-Pradarshak 6. Sthayi
+>.. 1. Sooraj 2. Chandrma 3. Bheegi 4. Pad Chinh
+>
+>.. 5. Path-Pradarshak 6. Sthayi
+
+</div>
 
 </center>
