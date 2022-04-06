@@ -4,6 +4,7 @@
         - [Kyaal Kee Kompal - ख़्याल  की कोंपल ](fikr/fkp_001_khyaalKeeKompal.md)
         - [Mera Saya - मेरा साया ](fikr/fkp_002_meraSaya.md)
         - [Bantwara - बँटवारा ](fikr/fkp_003_bantwara.md)
+        - [Tu Aayegi Kaise - तू आएग़ी कैसे](fikr/fkp_004_tuAyegiKaise.md)
         - [Vatayan - वातायन ](fikr/fkp_000_vatayan.md)
         - [Drishtikon - दृष्टिकोण ](fikr/fkp_000_drishtikon.md)
         - [Yatra - यात्रा ](fikr/fkp_000_yatra.md)
