@@ -53,14 +53,19 @@
 
 दरवाजे बन्द कर लो
 
-लगता है जैसे कोई आया है नहीं
+लगता है जैसे कोई आया है
+
+नहीं
 
 ------ये तो मेरा साया है
+
+-----
 
 भयानक है बहुत वक्त की तस्वीर मदन ।
 
 आँख नहीं मिलती जलते हुए मंजर <sup >४</sup > से ॥
 
+----
 
 १ - मंदिर  ; २ - शरण  ; ३ - क़त्ल करने का स्थान ;
 
@@ -121,14 +126,19 @@ Dauḍ kar chalo
 
 Daravāje banda kar lo
 
-Lagatā hai jaise koī āyā hai nahīan
+Lagatā hai jaise koī āyā hai
+
+nahīan
 
 ------ye to merā sāyā hai
 
+----
 
  Bhayānak hai bahut vakta kī tasvīr madan ।
 
  Āankhe nahīan milatī jalate hue manjar <sup> 4 </sup> se ॥
+
+----
 
  1- Mandir  ; 2 - Sharan  ; 3 - Katl Karne Ka Sthaan ;
 

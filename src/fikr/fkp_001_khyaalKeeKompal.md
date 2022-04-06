@@ -1,6 +1,6 @@
 <center>
 
-<iframe src="https://archive.org/embed/fikrKeParinde" width="750" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/fikrKeParinde/01_khyaalKeeKompal.mp3" width="750" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <div style="float:left; width:275;" align=center>
 <h2> ख्याल की कोंपल </h2>
@@ -80,6 +80,7 @@ foote Kisi khyaal kee Kompal
 
 Kisi mehek kaa janm ho.
 
+---
 
 .. 1. Sooraj 2. Chandrma 3. Bheegi 4. Pad Chinh
 
