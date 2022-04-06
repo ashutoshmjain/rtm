@@ -1,140 +1,100 @@
 <iframe src="https://archive.org/embed/fikrKeParinde/02_meraSaya.mp3" width="750" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <div style="float:left; width:300;" align=center>
-<h2>बँटवारा</h2>
-तुम चाहते हो
+<h2>तू आएगी कैसे </h2>
 
-हम तुम जुदा हो जाएं
+रात  के अंधेरे में
 
-ये आंगन ये घर बांट लें
+चुपके चुपके हौले हौले
 
-ये खेत खलिहान
+तू आएगी
 
-शीशम के धने पेड़
+तो  आएगी कैसे
 
-कुछ में काट लूँ  
+इक रात है अंधेरी
 
-कुछ तुम काट लो
+पुर पेच राहों पे
 
-ये मद मस्त नदियां
+पत्थर हैं काँटे हैं
 
-ये सरसब्ज़' जंगल
+साये भूत से दरख़्तों के
 
-पहाड़ों की चोटियां
+खड़ाके खुश्क खुश्क पत्तों के
 
-सब बांट लें
+हवा के तेज तेज झोंके
 
-हजारों मील लम्बी दीवार गर नहीं मुमकिन
+आँचल से लिपट कर
 
-तो चलो इक लकीर खेंच  लेते हैं
+तेरी राह रोकेंगे
 
-तुम चाहते हो गाँव गाँव बँट जाए
+तू आएगी -- आएगी कैसे
 
-शहर शहर बांट लें
+सुनसान सड़कों पर
 
-ये आंगन ये घर बांट लें
+बियाबान सड़कों पर
 
-तुम जो कहते हो शायद ठीक ही कहते हो
+शहर के आवारा कुत्ते
 
-अब-निबाह<sup>२</sup> नहीं हो सकता
+कुत्तों की सदाएँ
 
-ये जमीं
+ख़ौफ़ जी पे छाएगा  
 
-चश्मे
+पाँव लड़खड़ाएंगे
 
-गीत गजलें
+तू आएग़ी
 
-दूर तक फैले मुरव्वत<sup>३</sup> के रिश्ते
+आएगी कैसे ?
 
-अगर तुम चाहते हो चलो बांट लो
+यूँ तो
 
-शीशम के घने पेड़
+तेरे और मेरे दरमियाँ
 
-कुछ मैं काट लूँ  
+थोड़ा सा फ़ासला है
 
-कुछ तुम काट लो
+मगर मेरे गिरदो नवाह , दूर तक
 
-लेकिन
+टूटे फूटे झोंपड़ों का लम्बा सिलसिला है
 
-वह अपना बूढ़ा बाप
+उरियाँ नीम उरियाँ बदन
 
-वह जो कई सदियों से
+बौसीदा हड्डियाँ
 
-दुनिया के दूर-ओ-दराज खित्तों<sup>४</sup > पर
+हड्डियों के जिस्म
 
-प्रेम और भाई चारे का
+बेनूर चेहरे
 
-अमन और दोस्ती का
+बुझी बुझी सी आँखें
 
-महब्बत की रोशनी का
+मुफ़लिसों के जमघट हैं
 
-पैगाम<sup>५</sup> लेकर गया हुआ है
+गोया हसरतों के पनघट हैं
 
-लौट कर आएगा
+हज़ारों फ़ाकाकश मासूम बच्चे
 
-उसके हम उम्र बरगद <sup>६</sup> मर चुके होंगे
+मेरे आसपास रहते हैं
 
-दूर दूर तक
+मुझे अपना समझते हैं
 
-दरख्तों के साये नहीं होंगे
+गुजर कर इन तंग़ो  तारीक गलियों से
 
-वह कहां बैठेगा
+तू आएगी
 
-दीवार के साये तले?
+मेरे ख़यालों की परी
 
-तुम आओगे
-
-में नहीं आऊँगा
-
-मैं आऊंगा
-
-तुम नहीं आओगे
-
-चांदनी रात में बाप के गिर्द बैठे
-
-हज़ारों बेटे
-
-हजारों बेटियाँ
-
-जब यह बताएंगी--कि
-
-हम तुम जुदा हो गए हैं
-
-सैकड़ों साल बूढ़ा बाप
-
-ऐन<sup>७</sup> मुमकिन है कि मर जाए
-
-बूढ़े बाप का जिस्म
-
-हड्डियां-लहू-आंखें
-
-सब बांट लेंगे
+बहुत मुश्किल सा लगता है
 
 मगर
 
-प्यार-ओ-महब्बत का फलसफा <sup>७</sup>
+ना जाने क्यों फिर भी
 
-अमन और दोस्ती का रिश्ता
+दीये की कांपती सी लो कहती है
 
-किस तरह बंटेगा
+तू आएगी
 
-तुम चाहते हो
+तू ज़रूर आएगी
 
-हम तुम जुदा हो जाएं
+----
 
-गांव गांव बँट जाएँ
-
-शहर शहर बाँट लें
-
-ये आंगन ये घर बांट लें
-
----
-
- १- हरा भरा; २- निर्वाह ; ३- प्यार
-
- ४- हिस्सों ; ५-संदेश ; ६- वट वृक्ष
-
- ७- पूर्णरूपेण ; ८- दर्शन
 
 
 </div>
@@ -142,137 +102,96 @@
 <div style="float:right; width:300;" align=center>
 <h2>Bantawra</h2>
 
-Tum chāhate ho
+Rāt ke andhere mean
 
-Ham tum judā ho jāean
+Chupke chupke haule haule
 
-Ye āangan ye ghar bāanṭa lean
+Tū āeygī
 
-Ye khet khalihān
+To āeygī kaise
 
-Shīsham ke ghane ped
+Ik rāt hai aandherī
 
-Kuchh mean kāṭ loon
+Pur pech rāhoan pe
 
-Kuchh tum kāṭ lo
+Patthar haian kānṭe haian
 
-Ye mad masta nadiyāan
+Sāye bhūt se darakhatoan ke
 
-Ye sarasabja़' jangal
+Khaḍaāke khushk khushk pattoan ke
 
-Pahāḍaoan kī choṭiyāan
+Havā ke tej tej zoanke
 
-Sab bāanṭ lean
+Āaanchal se lipaṭ kara
 
-Hajāroan mīl lambī dīvār gar nahīan mumakin
+Terī rāh rokeange
 
-To chalo ik lakīr kheancha lete haian
+Tū āeygī -- āeiygī kaise
 
-Tum chāhate ho gāँv gāँv baँṭ jāe
+Sunasān saḍakoan par
 
-Shahar shahar bāanṭa lean
+Biyābān saḍakoan par
 
-Ye āangan ye ghar bāanṭa lean
+Shahar ke āvārā kutte
 
-Tum jo kahate ho shāyad ṭhīk hī kahate ho
+Kuttoan kī sadāen
 
-Aba-nibāha<sup>2</sup> nahīan ho sakatā
+Khauf jī pe chhāyegā
 
-Ye jamīan
+Pāanv laḍakhaḍaāeange
 
-Chashme
+Tū āeygaī
 
-Gīt gajalean
+Āeygī kaise ?
 
-Dūr tak faile muravvat<sup>3</sup> ke rishte
+Yūँ to
 
-Agar tum chāhate ho chalo bāanṭa lo
+Tere aur mere daramiyāँ
 
-Shīsham ke ghane ped
+Thoḍaā sā faāsalā hai
 
-Kuchh maian kāṭ loon
+Magar mere girado navāh , dūr tak
 
-Kuchh tum kāṭ lo
+Ṭūṭe fūṭe zhompaḍoan kā lambā silasilā hai
 
-Lekin
+Uriyāँ nīm uriyāँ badan
 
-Vah apanā būḍhaā bāp
+Bausīdā haḍḍiyāँ
 
-Vah jo kaī sadiyoan se
+Haḍḍiyoan ke jism
 
-Duniyā ke dūra-o-darāj khittoan<sup>4</sup> para
+Benūr chehare
 
-Prem aur bhāī chāre kā
+Buzī buzī sī āँkhean
 
-Aman aur dostī kā
+Mufa़lisoan ke jamaghaṭ haian
 
-Mahabbat kī roshanī kā
+Goyā hasaratoan ke panaghaṭ haian
 
-Paigām<sup>5</sup> lekar gayā huā hai
+Hajaāroan faākākash māsūm bachche
 
-Lauṭ kar āegā
+Mere āsapās rahate haian
 
-Usake ham umr baragad<sup>6</sup> mar chuke hoange
+Muze apanā samazate haian
 
-Dūr dūr tak
+Gujar kar in tango tārīk galiyoan se
 
-Darakhtoan ke sāye nahīan hoange
+Tū āegī
 
-Vah kahāan baiṭhegā
+Mere khayāloan kī parī
 
-Dīvār ke sāye tale?
-
-Tum āoge
-
-Mean nahīan āūँgā
-
-Maian āūangā
-
-Tum nahīan āoge
-
-Chāandanī rāt mean bāp ke gird baiṭhe
-
-hazaron beṭe
-
-Hajāroan beṭiyāँ
-
-Jab yah batāeangī--ki
-
-Ham tum judā ho gae haian
-
-Saikaḍa़oan sāl būḍha़ā bāp
-
-Aina<sup>7</sup> mumakin hai ki mar jāe
-
-Būḍha़e bāp kā jism
-
-Haḍḍiyāan-lahū-āankhean
-
-Sab bāanṭa leange
+Bahut mushkil sā lagatā hai
 
 Magar
 
-Pyāra-o-mahabbat kā falasafā<sup>7</sup>
+Nā jāne kyoan fir bhī
 
-Aman aur dostī kā rishtā
+Dīye kī kāanmpatī sī lo kahatī hai
 
-Kis tarah banṭegā
+Tū āegī
 
-Tum chāhate ho
-
-Ham tum judā ho jāean
-
-Gāanva gāanva baँṭ jāeँ
-
-Shahar shahar bāँṭ lean
-
-Ye āangan ye ghar bāanṭa lean
+Tū jarūr āegī
 
 ---
 
-1- harā bharā; 2- nirvāh ; 3- pyār
-
-4- hissoan ; 5-sandesh ; 6- vaṭ vṛukṣha
-
-7- pūrṇarūpeṇ ; 8- darshan
 </div>
