@@ -13,7 +13,7 @@ This online resource is a collection of his published and unpublished work .. Mo
 
 <img src=./fikr/fkpTitleCircleSmall.jpeg alt="Fikr Ke Parinde" align="right">
 
-Published in 1989 in Devnagri script, this books is a collection of his chosen poems. The book was forwarded by Shri Khushi Ram Sharma Vashisht, then `Rajya Kavi` of Haryana - India. Book received critical acclaim in the local circles of Hindi & Urdu poetry. Publishing Urdu poetry in Hindi (Devnagri) script was a bold move for that time. In a way it opened the door of non Urdu natives to a new and distinct style of poetry - `Nazm`.
+Published in 1989 in Devnagri script, this books is a collection of his chosen poems. The book was forwarded by Shri Khushi Ram Sharma Vashisht, then `Rajya Kavi` of Haryana - India. Book received critical acclaim in the local circles of Hindi & Urdu poetry. Publishing Urdu poetry in Hindi (Devnagri) script was a bold move for that time. In a way it opened the door for non Urdu natives to a new and distinct style of poetry - `Nazm`.
 
 ## Rasta Tau Mile
 
