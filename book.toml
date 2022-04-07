@@ -4,7 +4,7 @@ authors = ["ashutosh"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Shayri"
+title = "Shayri - शायरी "
 
 [output.html]
 
@@ -13,4 +13,4 @@ default-theme = "ayu"
 git-repository-url = "https://github.com/ashutoshmjain/rtm"
 edit-url-template = "https://github.com/ashutoshmjain/rtm/edit/main/{path}"
 cname = "poems.shutri.com"
-no-section-label = true 
+no-section-label = true
