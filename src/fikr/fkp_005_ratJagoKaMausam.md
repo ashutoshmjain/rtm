@@ -192,7 +192,7 @@ Rāt
 
 Is yug kī ākharī ho rāt
 
-Aur shāyada
+Aur shāyad
 
 Apanī mulākāt bhī dost !
 
