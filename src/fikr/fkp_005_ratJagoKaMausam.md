@@ -1,4 +1,4 @@
-<iframe src="https://archive.org/embed/fikrKeParinde/02_meraSaya.mp3" width="750" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/fikrKeParinde/05_ratJagoKaMausam.mp3" width="750" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <div style="float:left; width:300;" align=center>
 <h2>रतजगों का मौसम</h2>
@@ -244,7 +244,7 @@ Tej se tejatar kar do gītoan kī sadā
 
 ---
 
-1 -vādyayantra; 2- path ke kināre; 3- charitra;
+1 -vādyayantr; 2- path ke kināre; 3- charitr;
 
 4- sundar ichchhāoan; 5- āvashyakatā; 6- pūrṇa;
 

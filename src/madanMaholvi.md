@@ -15,6 +15,10 @@ This online resource is a collection of his published and unpublished work .. Mo
 
 Published in 1989 in Devnagri script, this books is a collection of his chosen poems. The book was forwarded by Shri Khushi Ram Sharma Vashisht, then `Rajya Kavi` of Haryana - India. Book received critical acclaim in the local circles of Hindi & Urdu poetry. Publishing Urdu poetry in Hindi (Devnagri) script was a bold move for that time. In a way it opened the door for non Urdu natives to a new and distinct style of poetry - `Nazm`.
 
+In the words of Shri Krishna chandra Paagal , a local Hindi writer and a member of `Adbi sangam Kurukshetra`
+
+> जगह जगह जिंदगी की सच्चाइयों, सुख-दुःख, कलह, उग्रवाद, मानवीय मूल्यों का बिखराव तथा वर्तमान की भयानक चुनौतियों के सजीव चित्र घंटों अपनी ओर देखने को मज़बूर करते हैं । सिद्धहस्त चित्रकार के सजीव रंग तथा कवि की कोमल अनुभूतियों का अनूठा सम्मिश्रण दिल की गहराइयों में अनायास ही उतरता चला जाता है
+
 ## Rasta Tau Mile
 
 <img src=./rtmTitleCircle.jpg alt="Rasta Tau Mile" align="left">
