@@ -7,6 +7,7 @@
         - [Aayegi Kaise - आएग़ी कैसे](fikr/fkp_004_tuAyegiKaise.md)
         - [Ratjagon - रतजगों ](fikr/fkp_005_ratJagoKaMausam.md)
         - [Khuda - ख़ुदा ](fikr/fkp_006_tumKhudaBhiHo.md)
+        - [Main Hoon - मैं हूँ  ](fikr/fkp_007_mainHoon.md)
         - [Vatayan - वातायन ](fikr/fkp_000_vatayan.md)
         - [Drishtikon - दृष्टिकोण ](fikr/fkp_000_drishtikon.md)
         - [Yatra - यात्रा ](fikr/fkp_000_yatra.md)
