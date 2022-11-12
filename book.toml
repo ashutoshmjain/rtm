@@ -8,7 +8,6 @@ title = "Shayri - शायरी "
 
 [output.html]
 
-google-analytics = "UA-90523130-2"
 default-theme = "light"
 git-repository-url = "https://github.com/ashutoshmjain/rtm"
 edit-url-template = "https://github.com/ashutoshmjain/rtm/edit/main/{path}"

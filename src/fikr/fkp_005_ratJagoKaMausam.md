@@ -1,4 +1,3 @@
-<iframe src="https://archive.org/embed/fikrKeParinde/05_ratJagoKaMausam.mp3" width="750" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <div style="float:left; width:300;" align=center>
 <h2>रतजगों का मौसम</h2>

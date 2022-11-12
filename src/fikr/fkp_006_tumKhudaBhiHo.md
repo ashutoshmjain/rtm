@@ -1,4 +1,3 @@
-<iframe src="https://archive.org/embed/fikrKeParinde/06_khuda.mp3" width="750" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <div style="float:left; width:300;" align=center>
 
