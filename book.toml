@@ -4,7 +4,7 @@ authors = ["ashutosh"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Shayri - शायरी "
+title = "Madan Maholvi - मदन महोलवी "
 
 [output.html]
 

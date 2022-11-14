@@ -1,6 +1,3 @@
-<center>
-<h1> Madan Maholvi </h1>
-</center>
 Jnaab Madan Maholvi (1936 - 2005) , was my father and `ustaad`. I learnt the taste of `Urdu Shayri` from him . An accomplished painter , sculptor and poet : Madan Maholvi was at ease and regular practitioner of multiple art forms. A student of Shimla Fine Arts college , he practiced and taught these art forms to high schoolers , under grads and teachers through his life.
 
 Haryana Urdu Academy published his `Shayri` in three covers.
@@ -44,9 +41,10 @@ This work is under creative commons licence. You are free to use , copy , redesi
 
 ## Contributions
 
-Please feel free to visit the repository at  [Github](https://github.com/ashutoshmjain/rtm) . You may raise issues if you see any technical or literary discrepancies. I am looking for help to translate these poems in other languages - particularly in English. I will provide technical assistance and publishing support .  If you have a taste for the poetry and command on other languages , please contact me through [email](mailto:amj@shutri.com)
+Please feel free to visit the repository at  [Github](https://github.com/ashutoshmjain/rtm) — the second icon from top left. You may raise issues if you see any technical or literary discrepancies. 
 
-And more importantly please spread the word for these amazing poems. I truly feel they deserve a wider audience. You can download the audio for a single track or  all the files in single shot from [internet archive](https://archive.org/details/rastaTauMile)  . Downloads are available in zip format  or as well as a torrent . If you need files in .wav format , feel free to drop me an [email](mailto:amj@shutri.com)
+I am looking for help to translate these poems in other languages - particularly in English. I will provide technical assistance and publishing support with due recognition for your help as a contributor.  If you have a taste for the poetry and command on other languages , please contact me through [email](mailto:amj@shutri.com)
 
+And more importantly please spread the word for these amazing poems. I truly feel they deserve a wider audience. 
 
 ~Ashutosh~
