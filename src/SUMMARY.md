@@ -1,4 +1,6 @@
 # Summary
+[Maholvi-Nama](./maholviNama.md)
+[How to read this book](./how.md)
 - [Madan Maholvi- मदन महोलवी ](madanMaholvi.md)
     - [Fikr Ke Parinde - फ़िक्र के परिंदे ](fikr/fkp_000_title.md)
         - [Kompal - कोंपल ](fikr/fkp_001_khyaalKeeKompal.md)
