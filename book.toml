@@ -10,6 +10,9 @@ title = "महोलवी नामा "
 theme = "src/theme"
 
 git-repository-url = "https://github.com/ashutoshmjain/rtm"
-edit-url-template = "https://github.com/ashutoshmjain/rtm/edit/main/{path}"
 cname = "poems.shutri.com"
 no-section-label = true
+
+[output.html.print]
+enable = false    # include support for printable output
+
