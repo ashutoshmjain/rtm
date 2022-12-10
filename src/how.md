@@ -1,22 +1,17 @@
 # How to read this book
 
-This book was generated using a `Rust` program called [mdBook](https://github.com/rust-lang/mdBook). Well, it will ‘technically’ be wrong to call it a "Book" because `mdBook` turns the written text[^text]into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could open a browser — a laptop, desktop, tablet or even a smartphone — no matter if it is an Apple device or one from Google or even what type of Browser [^browser], you may choose to use. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. It handles the layout and responsive design so my focus can lie on the content of this book instead of the architecture of the site. At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser.
+As far as the features go, you can:
+
+- toggle the chapter menu by clicking on the cheeseburger menu on top left: <i class="fa fa-fw fa-bars"></i>
+- search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
+- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> 
+- You can also navigate by using your keyboard's left and right arrows. 
+- On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
+
+This book was generated using a `Rust` program called [mdBook](https://github.com/rust-lang/mdBook). Well, it'll ‘technically’ be wrong to call it a "Book" because `mdBook` turns the written text[^text]into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could open a browser — a laptop, desktop, tablet or even a smartphone — no matter if it is an Apple device or one from Google or even what type of Browser [^browser], you may choose to use. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. It handles the layout and responsive design so my focus can lie on the content of this book instead of the architecture of the site. At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser.
 
 It even supports the foot [^foot]notes :-)
 
-As far as the features go, you can:
-
-…toggle the chapter menu by clicking on the hamburger menu on top left: <i class="fa fa-fw fa-bars"></i>
-
-…change the theme by selecting the paintbrush icon: <i class="fa fa-fw fa-paint-brush"></i> . I recommend using the "light theme" for optimum reading experience [^experience]
-
-…search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i>
-
-…turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i>
-
-You can also navigate by using your keyboard's left and right arrows.
-
-On the top right of the page, you can either print <i class="fa fa-fw fa-print"></i> this book in its entirety or visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
 
 ---
 
