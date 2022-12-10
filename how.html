@@ -1,9 +1,17 @@
 <!DOCTYPE HTML>
 <html lang="en" class="sidebar-visible no-js light">
     <head>
+        <!-- Preload and preconnect for some efficiency -->
+        <link rel="preconnect" href="https://www.w3counter.com/">
+        <link rel="preload" as="font" type="font/woff2" href="../fonts/edlo.woff2" crossorigin>
+        <link rel="preload" as="font" type="font/woff2" href="../fonts/GentiumBookBasic-Regular.woff2" crossorigin>
+        <link rel="preload" as="font" type="font/woff2" href="../fonts/GentiumBookBasic-Italic.woff2" crossorigin>
+        <link rel="preload" as="font" type="font/woff2" href="../fonts/GentiumBookBasic-Bold.woff2" crossorigin>
+        <link rel="preload" as="font" type="font/woff2" href="../fonts/GentiumBookBasic-BoldItalic.woff2" crossorigin>
+        <script src="https://www.w3counter.com/tracker.js?id=135172"></script>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>How to read this book - महोलवी नामा </title>
+        <title>महोलवी नामा </title>
                 
 
         <!-- Custom HTML head -->
@@ -18,8 +26,8 @@
                 <link rel="stylesheet" href="css/variables.css">
         <link rel="stylesheet" href="css/general.css">
         <link rel="stylesheet" href="css/chrome.css">
-                <link rel="stylesheet" href="css/print.css" media="print">
-        
+        <link rel="stylesheet" href="css/print.css" media="print">
+
         <!-- Fonts -->
         <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
                 <link rel="stylesheet" href="fonts/fonts.css">
@@ -32,22 +40,6 @@
         <!-- Custom theme stylesheets -->
         
             </head>
-    <script
-      type="text/javascript"
-      src="https://app.termly.io/embed.min.js"
-      data-auto-block="on"
-      data-website-uuid="24dcf282-493d-4d0b-9a7e-a58b9696a99f"
-      ></script>
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X1Y9LP08EL"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-X1Y9LP08EL');
-    </script>
     <body>
         <!-- Provide site root to javascript -->
         <script type="text/javascript">
@@ -126,25 +118,31 @@
                         </button>
                                             </div>
 
-                    <h1 class="menu-title">महोलवी नामा </h1>
+                    <!-- Make the book title only appear if it is *not* the chapter title as well -->
+                    <h1 id="book-title" class="menu-title">महोलवी नामा </h1>
+                    <script type="text/javascript">
+                        var bookTitleElement = document.getElementById('book-title')
+                        var bookTitle = 'महोलवी नामा ';
+                        var chapterTitle = 'How to read this book';
+                        if (bookTitle === chapterTitle) {
+                            bookTitleElement.innerText = null;
+                            document.title = bookTitle;
+                        }
+                    </script>
 
                     <div class="right-buttons">
-                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
                             <i id="print-button" class="fa fa-print"></i>
                         </a>
-                                                                        <a href="https://github.com/ashutoshmjain/rtm" title="Git repository" aria-label="Git repository">
+                                                <a href="https://github.com/ashutoshmjain/rtm" title="Git repository" aria-label="Git repository">
                             <i id="git-repository-button" class="fa fa-github"></i>
                         </a>
-                                                                        <a href="https://github.com/ashutoshmjain/rtm/edit/main/src/how.md" title="Suggest an edit" aria-label="Suggest an edit">
-                            <i id="git-edit-button" class="fa fa-edit"></i>
-                        </a>
-                        
-                    </div>
+                                            </div>
                 </div>
 
                                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -165,15 +163,16 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="how-to-read-this-book"><a class="header" href="#how-to-read-this-book">How to read this book</a></h1>
-<p>This book was generated using a <code>Rust</code> program called <a href="https://github.com/rust-lang/mdBook">mdBook</a>. Well, it will ‘technically’ be wrong to call it a &quot;Book&quot; because <code>mdBook</code> turns the written text<sup class="footnote-reference"><a href="#text">1</a></sup>into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could open a browser — a laptop, desktop, tablet or even a smartphone — no matter if it is an Apple device or one from Google or even what type of Browser <sup class="footnote-reference"><a href="#browser">2</a></sup>, you may choose to use. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. It handles the layout and responsive design so my focus can lie on the content of this book instead of the architecture of the site. At the same time, this application, keeps the essential book experience intact. Particularly on a tablet <sup class="footnote-reference"><a href="#tablet">3</a></sup>or even on a smartphone browser.</p>
-<p>It even supports the foot <sup class="footnote-reference"><a href="#foot">4</a></sup>notes :-)</p>
 <p>As far as the features go, you can:</p>
-<p>…toggle the chapter menu by clicking on the hamburger menu on top left: <i class="fa fa-fw fa-bars"></i></p>
-<p>…change the theme by selecting the paintbrush icon: <i class="fa fa-fw fa-paint-brush"></i> . I recommend using the &quot;light theme&quot; for optimum reading experience <sup class="footnote-reference"><a href="#experience">5</a></sup></p>
-<p>…search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i></p>
-<p>…turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i></p>
-<p>You can also navigate by using your keyboard's left and right arrows.</p>
-<p>On the top right of the page, you can either print <i class="fa fa-fw fa-print"></i> this book in its entirety or visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.</p>
+<ul>
+<li>toggle the chapter menu by clicking on the cheeseburger menu on top left: <i class="fa fa-fw fa-bars"></i></li>
+<li>search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> </li>
+<li>turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> </li>
+<li>You can also navigate by using your keyboard's left and right arrows. </li>
+<li>On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.</li>
+</ul>
+<p>This book was generated using a <code>Rust</code> program called <a href="https://github.com/rust-lang/mdBook">mdBook</a>. Well, it'll ‘technically’ be wrong to call it a &quot;Book&quot; because <code>mdBook</code> turns the written text<sup class="footnote-reference"><a href="#text">1</a></sup>into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could open a browser — a laptop, desktop, tablet or even a smartphone — no matter if it is an Apple device or one from Google or even what type of Browser <sup class="footnote-reference"><a href="#browser">2</a></sup>, you may choose to use. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. It handles the layout and responsive design so my focus can lie on the content of this book instead of the architecture of the site. At the same time, this application, keeps the essential book experience intact. Particularly on a tablet <sup class="footnote-reference"><a href="#tablet">3</a></sup>or even on a smartphone browser.</p>
+<p>It even supports the foot <sup class="footnote-reference"><a href="#foot">4</a></sup>notes :-)</p>
 <hr />
 <div class="footnote-definition" id="text"><sup class="footnote-definition-label">1</sup>
 <p><code>mdBook</code> takes the text written in <code>markdown</code> format to publish it through the web app. <code>markDown</code> is an open source implementation that allows conversion of text into <code>html</code> format through a set of simple notations. </p>
