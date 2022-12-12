@@ -1,5 +1,5 @@
 
-<div style="float:left; width:300;" align=center>
+<div style="float:left; width:400;" align=center>
 <h2>तू आएगी कैसे </h2>
 
 रात  के अंधेरे में
@@ -104,7 +104,7 @@
 
 </div>
 
-<div style="float:right; width:300;" align=center>
+<div style="float:right; width:400;" align=center>
 <h2>Tu Aaygi Kaise</h2>
 
 Rāt ke andhere mean
