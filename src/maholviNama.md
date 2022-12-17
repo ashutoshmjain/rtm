@@ -1,7 +1,7 @@
 <div class="cover-medium">
   <div class="centered">
-      साये कहाँ थे राह में, जो बैठते मदन ; <br>
-      तय किए हमने सफ़र , बड़ी सख़्तियों के साथ ।
+  Phikro Phan ke muṁhajor pariṃdo bolo ;<br>
+  iṃsā meṃ to aba tākate-guphtaar nahīṃ |<br>
   </div>
 </div>
 <div class="centered">
