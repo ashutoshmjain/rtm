@@ -162,8 +162,8 @@
                     <main>
                         <div class="cover-medium">
   <div class="centered">
-      साये कहाँ थे राह में, जो बैठते मदन ; <br>
-      तय किए हमने सफ़र , बड़ी सख़्तियों के साथ ।
+  Phikro Phan ke muṁhajor pariṃdo bolo ;<br>
+  iṃsā meṃ to aba tākate-guphtaar nahīṃ |<br>
   </div>
 </div>
 <div class="centered">
@@ -210,6 +210,20 @@
 
         </div>
 
+                <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
         
         
