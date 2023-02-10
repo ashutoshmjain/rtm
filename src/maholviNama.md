@@ -1,7 +1,11 @@
+<br>
+
+<br>
+
 <div class="cover-medium">
   <div class="centered">
-  Phikro Phan ke muṁhajor pariṃdo bolo ;<br>
-  iṃsā meṃ to aba tākate-guphtaar nahīṃ |<br>
+  Phikro Phan ke muṁhnjor parindo bolo; <br>
+  insā meṃ to aba tākate-guphtaar nahīn|<br>
   </div>
 </div>
 <div class="centered">
@@ -10,8 +14,8 @@
 
 <div class="cover-medium">
   <div class="centered">
-  फ़िक्रों फ़न के मुँहज़ोर परिंदो बोलो ; <br>
-  इंसा में तो अब ताकते-गुफ़्तार नहीं । <br>
+  फ़िक्रों फ़न के मुँहज़ोर परिंदो बोलो; <br>
+  इंसा में तो अब ताकते-गुफ़्तार नहीं। <br>
   <br> 
   <br> 
   </div>

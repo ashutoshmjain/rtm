@@ -41,3 +41,5 @@
         - [Yoonhi Khada Hoon](./yoonhiKhadaHoon.md)
         - [Kis Liye](./kisLiye.md)
         - [Ek Kabira](./ekKabira.md)
+   - [Bahut Garam Hai Dhoop](./bghd/bghdTitle.md)
+        - [Dua](./bghd/dua.md)
