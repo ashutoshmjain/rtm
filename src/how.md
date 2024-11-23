@@ -1,26 +1,103 @@
-# How to read this book
+----
 
-As far as the features go, you can:
+This publication is a collection of Urdu and Hindi poems of `Madan Maholvi`.
 
-- toggle the chapter menu by clicking on the cheeseburger menu on top left: <i class="fa fa-fw fa-bars"></i>
-- search the book using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
-- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i> 
-- You can also navigate by using your keyboard's left and right arrows. 
-- On the top right of the page, you can visit its Github <i class="fa fa-fw fa-github"></i> repository, where the source code lives.
+## Navigation and icons:
 
-This book was generated using a `Rust` program called [mdBook](https://github.com/rust-lang/mdBook). Well, it'll ‘technically’ be wrong to call it a "Book" because `mdBook` turns the written text[^text]into a website! That's a pretty big deal because with this little tool a public domain book may reach any device that could open a browser — a laptop, desktop, tablet or even a smartphone — no matter if it is an Apple device or one from Google or even what type of Browser [^browser], you may choose to use. Thus, it would be appropriate to call it a “web app” , that has several goodies baked in. It handles the layout and responsive design so my focus can lie on the content of this book instead of the architecture of the site. At the same time, this application, keeps the essential book experience intact. Particularly on a tablet [^tablet]or even on a smartphone browser.
+- cheeseburger on top left <i class="fa fa-fw fa-bars"></i> toggles the chapters' sidebar. On mobile devices, you may swap right. 
+- search the publication using the magnifying glass: <i class="fa fa-fw fa-search"></i> 
+- turn pages by clicking the left and right angles:<i class="fa fa-fw fa-angle-left"></i> <i class="fa fa-fw fa-angle-right"></i>. On mobile devices, the angles show up at the bottom of page.
+- you can also navigate with left and right arrows on keyboard.
 
-It even supports the foot [^foot]notes :-)
+## Clean internet 
+
+Just the way oceans are filled up with plastics, the internet is infected with countless cookies and trackers. Some of them useful for the functions of websites - but most to profile the users - to serve them pesky ads. Put together, they have turned the internet into a surveillance apparatus. 
+
+An immune response is the rise of freedom tech - privacy tools - VPNs, ad-blockers, encrypted chats, and scramblers.  These tools are not only complicated, they make internet slow. My aspiration is to provide a reading experience as it was meant to be - Cookies free, Trackers free, Advertising free - without the reader having to use privacy crutches. 
+
+A publisher may infest webpages sometimes unknowingly. Plug and play code such as Google Analytics are easy to install if not pre-installed. They however breach the sacred trust between a reader and publisher. A good reading experience is not only a readers' right, it is also a good design choice - it makes pages load faster. 
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+We know, in order to keep their services free - email, search, social - likes of Google and Facebook turned the internet into an advertising platform. Every click is analyzed at the perils of reading experience - to place clickbaits. But If you thought they were the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad. 
+
+![cnnTrackers](./cnnTrackers.png)
+
+As a reader, you have options to block cookies through browser settings. But most of the time such choices are binary - yes or no. If you chose "No", you won't be able to load most of the websites. In effect, they are useless to an average user. 
+
+A better compromise is to use [duckduck go](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)  privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
+
+</div>
+
+As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. It should show up as below ..
+
+![duck](./duck.png)
+
+**The goal is NOT to fight ! Internet is too big to change and all models of content delivery may co-exist! It is only to do my part as a digital native - leave the place as clean as I found it.**
+
+## Open source tools
+
+Since web-browser is a general purpose application, fine-tuning it for readability is somewhat a necessity. I use an open source publishing tool [mdBook](https://github.com/rust-lang/mdBook) to bind these pages into a book-like reading experience. The web-app thus created has many features :  
+
+<div style="padding-left:40px;font-size:0.9em;"> 
+
+- It handles layout and responsive design, so my mind stays on the content - instead of technology. 
+- It keeps the essential book experience intact - even on a tablet or smartphone.
+- Website may be installed like an app. Browser based apps are called [progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app). They can be installed on computers or smart devices for offline reading.
+- The app comes with three tier search - probably the least appreciated feature !  For example - if I search for `Siva`, it gives me the name of the book, chapter, and section heading. When I click on the search result , it highlights the 'search term' in blue color. 
+
+![Search mdBook](./search.png)
+
+</div>
+
+Content is written in Markdown on Vim - both open and time tested. I mostly use Debian - a fully open distribution of Linux.
+
+## Theme
+
+The theme is a [custom design](https://github.com/ashutoshmjain/maholvi). A golden background with black `Alkatra` fonts form `Suman Bhandary`. I have restricted other standard themes, such as rust, ayu or navy because this custom theme is the (only) one I test from readability standpoint.
+
+## Favicon
+
+The favicon for this web-app is a [Trefoil Knot](https://en.wikipedia.org/wiki/Trefoil_knot). Trefoil is the first non-trivial knot - it can't be simplified into an "unknot" (a circle). In `Vaidik` thought trefoil (`triguna`) is the fundamental `Karm Bandhan`. The three colors indicate the three basic potencies of creation - the color charges of particle physics or the three `gunas` of `Vaidik` science.
 
 
----
+## Cover photo
 
-[^text]: `mdBook` takes the text written in `markdown` format to publish it through the web app. `markDown` is an open source implementation that allows conversion of text into `html` format through a set of simple notations. 
+The cover picture is a pencil sketch of `Ganesa` by [Madan Maholvi](https://poems.shutri.com). 
 
-[^browser]: Because of limited resources, I only use ‘Google Chrome’ for testing. Expectation is it should work on all browsers but all the features may not be available on older ones such as w3m or elinks that don't support javascipt natively.
+In `Hindu` mythology, `Ganesa` is the embodiment of superior intelligence. `Ganesa` being the mind child of `Siva` represents the supreme consciousness. As per `Vaidik` science, the evolution (rise of consciousness) takes place to answer the question - "who am I?" The limitation, however, is `Ganesa` can't suggest the questions, he can only provide the answers. Framing the right set of questions is thus left to the evolution. 
 
-[^tablet]: This book was “designed” for ‘in-browser’ reading experience on an Apple or Android tablet. It should work pretty well on kindle browser as well, if you want to read it in the bright sun light, though you will need an internet connection. Of course it will work fine on a laptop browser - duh:-)
+> One who has all the answers doesn't know of any question!
 
-[^foot]: When you click on the foot note marker in the main text, it brings you down to the relevant note at the bottom. You can always press the browser back arrow on computer (or on tablet) to get back to where you were reading - back to the foot note mark in the main text. Isn't that lot better than reading a paper book!
+## Licence
 
-[^experience]: Modern  web-apps, offer a multitude of 'Themes' - the fonts, color combinations, and the font sizes. It is almost impossible to review the text though all the possible combinations. Thus a time-pressed editor must choose one to preview the write ups (:- . It was much easier in older times when all books had the same white-ish color and all words were mostly a shade of black :-)
+The publication is under creatives common v1.0. Which means everything is under public domain.  The fonts used are under SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+The net of this license is as below
+
+ ![license](./license.png)
+
+
+## Style 
+
+- I normally use maroon color for  `Hindi` or `Sanskrit`.  
+- [Hyperlinks](https://shutri.com) are in "blue" color. 
+
+## Tips and Donations:
+
+Tips normally mean you are happy with your worker. Donations are something that show you support a cause. I may be wrong in my definitions - but you can't go wrong in supporting this work - either "tips" or "donations" - both are welcome. You can use the donation box below to send money in `Satoshies` - commonly called `Sats`. Sats are convenient because there is no credit card involved or computations for the exchange rates - it is one simple global money for the internet.
+
+<lightning-widget 
+  name="" 
+  accent="#f9ce00" 
+  to="shutosha@getalby.com" 
+  image="https://nostrcheck.me/media/shutosha/nostrcheck.me_8a0b72e8f2ca443709f3a651bea683dbc6a418a4861b3ba9.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+
+To send Sats with above widget, you will need a "lighning wallet" . I normally use [Alby](https://getalby.com) as a browser extension on desktops. On mobile phones, the choices are endless. Depending upon your jurisdiction - a simple "lightning wallet" search in your app store, would show you all the options.
+
+You can leave a small note with lightning payments though all transactions are practically private. Which means I can't know who sent the money unless you leave a clue in the message.
+
+
+

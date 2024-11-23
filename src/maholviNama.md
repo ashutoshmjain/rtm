@@ -1,11 +1,33 @@
-<br>
+<div class="cover-huge">Maholvi Nama</div>
 
-<br>
+----
+
+<div class="centered">
+    <img src="./ganesa.svg" alt="Shwet Ganesa" class="responsive"
+    width = "1400"
+    height = "1000" />
+    
+</div>
+<div class="cover-small"><sup>Pencil Art: Madan Maholvi</sup></div>
+<div class="cover-small">
+  <div class="centered">
+      <a href="./how.md">Navigation & About .. </a>
+  </div>
+</div>
 
 <div class="cover-medium">
   <div class="centered">
-  Phikro Phan ke muṁhnjor parindo bolo; <br>
-  insā meṃ to aba tākate-guphtaar nahīn|<br>
+
+</div>
+</div>
+
+---
+
+
+<div class="cover-medium">
+  <div class="centered">
+  Phikro Phan ke munhnjor parindo bolo; <br>
+  insā me tau aba tākate-guphtaar nahīn|<br>
   </div>
 </div>
 <div class="centered">
@@ -23,7 +45,7 @@
   <br>
 <div class="cover-huge">Madan Maholvi</div>
 <div class="cover-small">1936 - 2005</div>
-<div class="cover-small">&copy; 2022</div>
+<div class="cover-small">&copy; 2024</div>
 <div class="cover-small">
   <div class="centered">
       <a href="https://poems.shutri.com/how.html">Navigation ? </a>
