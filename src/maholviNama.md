@@ -27,7 +27,7 @@
 <div class="cover-medium">
   <div class="centered">
   Phikro Phan ke munhnjor parindo bolo; <br>
-  insā me tau aba tākate-guphtaar nahīn|<br>
+  insā me tau aba tākate-guphtaar nahīn.<br>
   </div>
 </div>
 <div class="centered">
@@ -46,8 +46,3 @@
 <div class="cover-huge">Madan Maholvi</div>
 <div class="cover-small">1936 - 2005</div>
 <div class="cover-small">&copy; 2024</div>
-<div class="cover-small">
-  <div class="centered">
-      <a href="https://poems.shutri.com/how.html">Navigation ? </a>
-  </div>
-</div>

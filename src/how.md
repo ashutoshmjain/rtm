@@ -1,6 +1,6 @@
 ----
 
-This publication is a collection of Urdu and Hindi poems of `Madan Maholvi`.
+This is a clean internet publication : a collection of Urdu and Hindi poems of `Madan Maholvi`.
 
 ## Navigation and icons:
 
@@ -19,11 +19,11 @@ A publisher may infest webpages sometimes unknowingly. Plug and play code such a
 
 <div style="padding-left:40px;font-size:0.9em;"> 
 
-We know, in order to keep their services free - email, search, social - likes of Google and Facebook turned the internet into an advertising platform. Every click is analyzed at the perils of reading experience - to place clickbaits. But If you thought they were the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad. 
+In order to keep their services free - email, search, social - likes of Google and Facebook turned the internet into an advertising platform. Every click is analyzed at the perils of reading experience - to place clickbaits. But If you thought they were the only culprits, you would be surprised ! CNN  uses as many as 21 trackers! And most other trusted names are equally bad. 
 
 ![cnnTrackers](./cnnTrackers.png)
 
-As a reader, you have options to block cookies through browser settings. But most of the time such choices are binary - yes or no. If you chose "No", you won't be able to load most of the websites. In effect, they are useless to an average user. 
+As a reader, you have options to block cookies through browser settings. But most of the time such choices are binary - yes or no. If you chose "No", you won't be able to load most of the websites. In effect, such settings are useless to an average user. 
 
 A better compromise is to use [duckduck go](https://chromewebstore.google.com/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)  privacy extension. It stops trackers (and cookies) that are there for the sole purpose of profiling, but it allows those needed for the application functions. Not an ideal case but still the best among available options. 
 
@@ -80,8 +80,10 @@ The net of this license is as below
 
 ## Style 
 
-- I normally use maroon color for  `Hindi` or `Sanskrit`.  
+- I normally use `maroon` color to highlight a word. 
 - [Hyperlinks](https://shutri.com) are in "blue" color. 
+- The background color is Gold #f9ce00
+- The font is Alkatra.
 
 ## Tips and Donations:
 

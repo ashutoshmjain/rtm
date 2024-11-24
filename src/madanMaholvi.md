@@ -24,13 +24,5 @@ The book is about self discovery. Poet seeks himself amidst the chaotic eighties
 
 In a way the poetical format - `Nazm` is a very apt choice for the topic at hand "Show me the path" . He is judicious with the words without compromising the freedom of the medium.
 
-## Creative commons and open source credits
-This work is under creative commons licence. You are free to use , copy , redesign any which you you like as long as you visibly attribute the original as under
-
-> Title  `Fikr Ke Parinde` or `Rasta Tau Mile` by  Madan Maholvi (poems.shutri.com)
->
-> Licensed under Creative Commons: By Attribution 3.0
->
-> http://creativecommons.org/licenses/by/3.0/
 
 
