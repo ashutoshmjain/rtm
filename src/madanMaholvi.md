@@ -32,19 +32,5 @@ This work is under creative commons licence. You are free to use , copy , redesi
 > Licensed under Creative Commons: By Attribution 3.0
 >
 > http://creativecommons.org/licenses/by/3.0/
->
 
-- The online presentation of the book is through an "open source" documentation tool "mdbook". You may click on three horizontal bars at the top left corner of the screen to open a side panel to access the poems sorted in a index style.
-- The open access project is hosted at [Github](https://github.com/ashutoshmjain/rtm)
 
-## Contributions
-
-Please feel free to visit the repository at  [Github](https://github.com/ashutoshmjain/rtm) — the second icon from top left. You may raise issues if you see any technical or literary discrepancies. 
-
-I am looking for help to translate these poems in other languages - particularly in English. I will provide technical assistance and publishing support with due recognition for your help as a contributor.  If you have a taste for the poetry and command on other languages , please contact me through [email](mailto:amj@shutri.com)
-
-And more importantly please spread the word for these amazing poems. I truly feel they deserve a wider audience. 
-
-Web publisher
-
-Ashutosh
