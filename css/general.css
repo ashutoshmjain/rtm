@@ -1,5 +1,15 @@
 /* Custom shizz */
 
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+.alkatra-<uniquifier> {
+  font-family: "Alkatra", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 /* Kalam */
 @font-face {
   font-family: 'Kalam';
@@ -53,24 +63,24 @@
 
 :root {
     /* Browser default font-size is 16px, this way 1 rem = 10px */
-    font-size: 75.5%;
+    font-size: 55.5%;
 }
 
 html {
-    font-family: Kalam, "Open Sans", sans-serif;
+    font-family: Alkatra, "Dancing Script", cursive,  "Open Sans", sans-serif;
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
-   font-size: 0.8em;
+    font-size: 0.8em;
 }
 
 
 body {
     margin: 0;
-    font-size: 2.2rem;
+    font-size: 2.5rem;
     overflow-x: hidden;
-    background-image: url("../../yellowBackground.png");
-
+    background-color: #f9ce00;
+    /* background-image: url("../../yellowBackground.png"); */
 }
 
 pre.output {
@@ -81,7 +91,7 @@ pre.output {
     word-wrap: break-word;       /* Internet Explorer 5.5+ */  
     color: var(--bg);
     background-color: var(--fg);
-    font-family: Kalam, "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace !important;
+    font-family: Alkatra, "Dancing Script", cursive,  "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace !important;
     font-size: 0.666em;
     padding: 0.5em;
     margin: 3rem 0;
@@ -89,7 +99,7 @@ pre.output {
 }
 
 code {
-    font-family: Kalam, "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace !important;
+    font-family:  Alkatra, "Dancing Script", cursive,  "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace !important;
     font-size: 1em;
     margin: 3rem 0;
     border-radius: 4px;
@@ -118,8 +128,8 @@ img.responsive {
 }
 
 .cover-small {
-    margin-top: 4rem;
-    font-size: 2rem;
+    margin-top: 1rem;
+    font-size: 1.5rem;
     text-align: center;
 }
 
@@ -303,7 +313,7 @@ sup.footnote-reference {
 }
 
 .chapter {
-    font-family: Kalam, "Open Sans", sans-serif;
+    font-family: Alkatra, "Dancing Script", cursive,  "Open Sans", sans-serif;
     font-size: 0.8em;
 }
 
