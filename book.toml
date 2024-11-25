@@ -9,7 +9,6 @@ title = "महोलवी नामा "
 [output.html]
 theme = "src/theme"
 
-git-repository-url = "https://github.com/ashutoshmjain/rtm"
 cname = "poems.shutri.com"
 no-section-label = true
 
