@@ -3,7 +3,7 @@
 ----
 
 <div class="centered">
-    <img src="./ganesa.svg" alt="Shwet Ganesa" class="responsive"
+    <img src="./ganesa.png" alt="Shwet Ganesa" class="responsive"
     width = "1400"
     height = "1000" />
     
@@ -30,9 +30,8 @@
   insā me tau aba tākate-guphtaar nahīn.<br>
   </div>
 </div>
-<div class="centered">
-    <img src="./rtmTitle.png" alt="ganesay namh" class="responsive">
-</div>
+
+----
 
 <div class="cover-medium">
   <div class="centered">

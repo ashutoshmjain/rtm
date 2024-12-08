@@ -29,9 +29,7 @@ A better compromise is to use [duckduck go](https://chromewebstore.google.com/de
 
 </div>
 
-As a rule, and design imperative, I don't use any trackers or cookies whatsoever. You can test it through "duckduck go" privacy extension. It should show up as below ..
-
-![duck](./duck.png)
+As a rule, and design imperative, I don't use any trackers or cookies whatsoever. 
 
 **The goal is NOT to fight ! Internet is too big to change and all models of content delivery may co-exist! It is only to do my part as a digital native - leave the place as clean as I found it.**
 
@@ -44,9 +42,6 @@ Since web-browser is a general purpose application, fine-tuning it for readabili
 - It handles layout and responsive design, so my mind stays on the content - instead of technology. 
 - It keeps the essential book experience intact - even on a tablet or smartphone.
 - Website may be installed like an app. Browser based apps are called [progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app). They can be installed on computers or smart devices for offline reading.
-- The app comes with three tier search - probably the least appreciated feature !  For example - if I search for `Siva`, it gives me the name of the book, chapter, and section heading. When I click on the search result , it highlights the 'search term' in blue color. 
-
-![Search mdBook](./search.png)
 
 </div>
 
@@ -82,7 +77,7 @@ The net of this license is as below
 
 - I normally use `maroon` color to highlight a word. 
 - [Hyperlinks](https://shutri.com) are in "blue" color. 
-- The background color is Gold #f9ce00
+- The background color is Gold #a6a6a6
 - The font is Alkatra.
 
 ## Tips and Donations:
