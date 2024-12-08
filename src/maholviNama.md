@@ -3,7 +3,7 @@
 ----
 
 <div class="centered">
-    <img src="./ganesa.png" alt="Shwet Ganesa" class="responsive"
+    <img src="./ganesa-bg-gold-removebg-shadow.png" alt="Shwet Ganesa" class="responsive"
     width = "1400"
     height = "1000" />
     
