@@ -117,8 +117,7 @@ body {
     margin: 0;
     font-size: 2.5rem;
     overflow-x: hidden;
-    background-color: #f9ce00;
-    /* background-image: url("../../yellowBackground.png"); */
+    background-color: #a6a6a6;
 }
 
 pre.output {

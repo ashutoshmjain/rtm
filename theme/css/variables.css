@@ -12,14 +12,14 @@
 
 
 .light {
-    --bg: #f9ce00;
+    --bg: #a6a6a6;
     --fg: hsl(0, 0%, 0%);
 
-    --sidebar-bg: #f9ce00;
+    --sidebar-bg: #a6a6a6;
     --sidebar-fg: hsl(0, 0%, 0%);
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #1f1fff;
-    --sidebar-spacer: #f9ce00;
+    --sidebar-spacer: #a6a6a6;
 
     --scrollbar: #8F8F8F;
 
@@ -28,14 +28,14 @@
 
     --links: #20609f;
 
-    --inline-code-bg: #8f790a;
+    --inline-code-bg: #a6a6a6;
     --inline-code-color: #800000;
 
     --theme-popup-bg: #fafafa;
     --theme-popup-border: #cccccc;
     --theme-hover: #e6e6e6;
 
-    --quote-bg: hsl(47, 86%, 52%);
+    --quote-bg: #a6a6a6 ;
     --quote-border: hsl(197, 37%, 91%);
 
     --table-border-color: hsl(0, 0%, 95%);
@@ -53,14 +53,14 @@
 }
 
 .coal {
-    --bg: #f9ce00;
+    --bg: #a6a6a6;
     --fg: hsl(0, 0%, 0%);
 
-    --sidebar-bg: #f9ce00;
+    --sidebar-bg: #a6a6a6;
     --sidebar-fg: hsl(0, 0%, 0%);
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #1f1fff;
-    --sidebar-spacer: #f9ce00;
+    --sidebar-spacer: #a6a6a6;
 
     --scrollbar: #8F8F8F;
 
@@ -69,14 +69,14 @@
 
     --links: #20609f;
 
-    --inline-code-bg: #8f790a;
+    --inline-code-bg: #a6a6a6;
     --inline-code-color: #800000;
 
     --theme-popup-bg: #fafafa;
     --theme-popup-border: #cccccc;
     --theme-hover: #e6e6e6;
 
-    --quote-bg: hsl(47, 86%, 52%);
+    --quote-bg: #a6a6a6 ;
     --quote-border: hsl(197, 37%, 91%);
 
     --table-border-color: hsl(0, 0%, 95%);
@@ -94,14 +94,14 @@
 }
 
 .ayu {
-    --bg: #f9ce00;
+    --bg: #a6a6a6;
     --fg: hsl(0, 0%, 0%);
 
-    --sidebar-bg: #f9ce00;
+    --sidebar-bg: #a6a6a6;
     --sidebar-fg: hsl(0, 0%, 0%);
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #1f1fff;
-    --sidebar-spacer: #f9ce00;
+    --sidebar-spacer: #a6a6a6;
 
     --scrollbar: #8F8F8F;
 
@@ -110,14 +110,14 @@
 
     --links: #20609f;
 
-    --inline-code-bg: #8f790a;
+    --inline-code-bg: #a6a6a6;
     --inline-code-color: #800000;
 
     --theme-popup-bg: #fafafa;
     --theme-popup-border: #cccccc;
     --theme-hover: #e6e6e6;
 
-    --quote-bg: hsl(47, 86%, 52%);
+    --quote-bg: #a6a6a6 ;
     --quote-border: hsl(197, 37%, 91%);
 
     --table-border-color: hsl(0, 0%, 95%);
@@ -135,14 +135,14 @@
 }
 
 .rust {
-    --bg: #f9ce00;
+    --bg: #a6a6a6;
     --fg: hsl(0, 0%, 0%);
 
-    --sidebar-bg: #f9ce00;
+    --sidebar-bg: #a6a6a6;
     --sidebar-fg: hsl(0, 0%, 0%);
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #1f1fff;
-    --sidebar-spacer: #f9ce00;
+    --sidebar-spacer: #a6a6a6;
 
     --scrollbar: #8F8F8F;
 
@@ -151,14 +151,14 @@
 
     --links: #20609f;
 
-    --inline-code-bg: #8f790a;
+    --inline-code-bg: #a6a6a6;
     --inline-code-color: #800000;
 
     --theme-popup-bg: #fafafa;
     --theme-popup-border: #cccccc;
     --theme-hover: #e6e6e6;
 
-    --quote-bg: hsl(47, 86%, 52%);
+    --quote-bg: #a6a6a6a ;
     --quote-border: hsl(197, 37%, 91%);
 
     --table-border-color: hsl(0, 0%, 95%);
@@ -176,14 +176,14 @@
 }
 
 .navy {
-    --bg: #f9ce00;
+    --bg: #a6a6a6;
     --fg: hsl(0, 0%, 0%);
 
-    --sidebar-bg: #f9ce00;
+    --sidebar-bg: #a6a6a6;
     --sidebar-fg: hsl(0, 0%, 0%);
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #1f1fff;
-    --sidebar-spacer: #f9ce00;
+    --sidebar-spacer: #a6a6a6;
 
     --scrollbar: #8F8F8F;
 
@@ -192,14 +192,14 @@
 
     --links: #20609f;
 
-    --inline-code-bg: #8f790a;
+    --inline-code-bg: #a6a6a6;
     --inline-code-color: #800000;
 
     --theme-popup-bg: #fafafa;
     --theme-popup-border: #cccccc;
     --theme-hover: #e6e6e6;
 
-    --quote-bg: hsl(47, 86%, 52%);
+    --quote-bg: #a6a6a6 ;
     --quote-border: hsl(197, 37%, 91%);
 
     --table-border-color: hsl(0, 0%, 95%);
@@ -243,7 +243,7 @@
         --theme-popup-border: #43484d;
         --theme-hover: #1f2124;
 
-        --quote-bg: hsl(234, 21%, 18%);
+        --quote-bg: #a6a6a6 ;
         --quote-border: hsl(234, 21%, 23%);
 
         --table-border-color: hsl(200, 7%, 13%);
