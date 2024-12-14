@@ -1,6 +1,3 @@
-<div class="cover-huge">Maholvi Nama</div>
-
-----
 
 <div class="centered">
     <img src="./ganesa-bg-gold-removebg-shadow.png" alt="Shwet Ganesa" class="responsive"
