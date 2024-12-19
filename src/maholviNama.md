@@ -1,3 +1,4 @@
+---
 
 <div class="centered">
     <img src="./ganesa-bg-gold-removebg-shadow.png" alt="Shwet Ganesa" class="responsive"
@@ -19,7 +20,16 @@
 </div>
 
 ---
+  <br> 
+  <br> 
 
+<div class="cover-medium">
+  <div class="centered">
+  फ़िक्रों फ़न के मुँहज़ोर परिंदो बोलो; <br>
+  इंसा में तो अब ताकते-गुफ़्तार नहीं। <br>
+  <br> 
+  <br> 
+  </div>
 
 <div class="cover-medium">
   <div class="centered">
@@ -30,13 +40,7 @@
 
 ----
 
-<div class="cover-medium">
-  <div class="centered">
-  फ़िक्रों फ़न के मुँहज़ोर परिंदो बोलो; <br>
-  इंसा में तो अब ताकते-गुफ़्तार नहीं। <br>
-  <br> 
-  <br> 
-  </div>
+
 </div>
   <br>
 <div class="cover-huge">Madan Maholvi</div>
